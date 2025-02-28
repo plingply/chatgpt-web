@@ -13,6 +13,10 @@ dist-ssr
 coverage
 *.local
 
+
+service/yarn.lock
+yarn.lock
+
 /cypress/videos/
 /cypress/screenshots/
 
